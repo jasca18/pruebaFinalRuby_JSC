@@ -1,0 +1,4 @@
+El promedio de notas de David es de: 3.6
+El promedio de notas de Gonzalo es de: 4.2
+El promedio de notas de Mai es de: 7.6
+El promedio de notas de JP es de: 10.0
